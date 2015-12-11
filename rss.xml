@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Narwal]]></title>
         <description><![CDATA[The Narwal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-narwal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 06:03:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Dec 2015 06:10:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-narwal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Watch This: Texas family looks to give back with dubstep Christmas light show]]></title>
+            <description><![CDATA[<article><h1>Watch This: Texas family looks to give back with dubstep Christmas light show</h1><p>Christmas light shows are a seasonal phenomenon that have been going on for years. From the Cadger family's viral video of their house synced to Skrillex's "Equinox (First of the Year)" to ABC's The Great Christmas Light Fight series, the annual tradition has seen itself become more intense every year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f391ca1374adc020941197f7ecaea063e5c9faf.png"></article>]]></description>
+            <link>https://thegrid.ai/the-narwal/watch-this-texas-family-looks-to-give-back-with-dubstep-chr/index.html</link>
+            <guid isPermaLink="false">7c96b751-ef83-4cfa-ad08-95ccc5f1bf19</guid>
+            <pubDate>Fri, 11 Dec 2015 06:10:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stuff I Know]]></title>
             <description><![CDATA[<article><h1>Stuff I Know</h1><p>I know a couple things about a couple things.</p></article>]]></description>
-            <link>undefinedstuff-i-know/index.html</link>
+            <link>https://thegrid.ai/the-narwal/stuff-i-know/index.html</link>
             <guid isPermaLink="false">c3d44ab2-1239-4661-8e8b-4751a1036490</guid>
             <pubDate>Fri, 11 Dec 2015 06:02:46 GMT</pubDate>
         </item>
